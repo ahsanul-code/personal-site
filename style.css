@@ -1,0 +1,21 @@
+/****************************************TAG SELECTOR**************************************/
+body {
+  background-color : #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 20%;
+  border-color: grey;
+  border-width: 20px;
+}
+
+h1,h3 {
+  color: #66BFBF;
+}
+
+img {
+  background-color: blue;
+  height: 15rem;
+  width: 13rem;
+}
